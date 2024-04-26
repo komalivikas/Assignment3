@@ -33,7 +33,7 @@ Selecting a Single Date
 ![Alt Text](ImagesUpdated/SelectDate.png)
 
 Selecting a Range of Dates
-![Alt Text](ImaImagesUpdatedges/DateRange.png)
+![Alt Text](ImagesUpdated/DateRange.png)
 
 Providing a Count
 ![Alt Text](ImagesUpdated/Count.png)
